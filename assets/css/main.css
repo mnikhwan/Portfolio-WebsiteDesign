@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  background-color: #161616;
+  font-family: "Poppins", sans-serif;
+}
+/*Hero section*/
+.lingkaran {
+  width: 693px;
+  height: 693px;
+  background: #1b1b1b;
+  border-radius: 100%;
+  position: absolute;
+  left: 621px;
+  top: -33px;
+  z-index: 1;
+}
+.herotitle {
+  color: #fff;
+  position: absolute;
+  width: 91px;
+  height: 108px;
+  left: 414px;
+  top: 195px;
+  font-style: normal;
+  font-weight: 550;
+  font-size: 72px;
+  line-height: 108px;
+  z-index: 5;
+}
+.herosub1 {
+  position: absolute;
+  width: 291px;
+  height: 72px;
+  left: 459px;
+  top: 285px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 72px;
+  z-index: 5;
+  text-align: center;
+
+  color: #ffffff;
+}
+.herosub2 {
+  position: absolute;
+  width: 293px;
+  height: 72px;
+  left: 689px;
+  top: 357px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 72px;
+  z-index: 5;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.imagehero {
+  position: absolute;
+  width: 216px;
+  height: 314px;
+  left: 171px;
+  top: 148px;
+
+  border-radius: 50px;
+}
+.borderimagehero {
+  position: absolute;
+  width: 243px;
+  height: 353px;
+  left: 158px;
+  top: 129px;
+
+  border: 2px solid #cccccc;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+.dotlayang {
+  position: absolute;
+  width: 20px;
+  height: 99px;
+  left: 1300px;
+  top: 463px;
+}
+.dotlayang .lingkar1 {
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+  left: 1375px;
+  top: 463px;
+  margin-bottom: 1rem;
+
+  background: #ffffff;
+}
+.dotlayang .lingkar2 {
+  width: 20px;
+  height: 21px;
+  left: 1375px;
+  top: 502px;
+  border-radius: 100%;
+  margin-bottom: 1rem;
+
+  border: 2px solid #ffffff;
+  box-sizing: border-box;
+}
+.dotlayang .lingkar3 {
+  width: 20px;
+  height: 20px;
+  left: 1375px;
+  border-radius: 100%;
+  top: 542px;
+
+  border: 2px solid #ffffff;
+  box-sizing: border-box;
+}
+.bgwaveabout {
+  position: absolute;
+  width: 1345px;
+  left: 0px;
+  top: 494px;
+  z-index: 1;
+}
+/* .waveatas1 img {
+  width: 1300px;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 59.05%;
+} */
